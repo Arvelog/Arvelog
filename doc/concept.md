@@ -10,4 +10,4 @@
 
 
 ## minikube
-![[Image](https://asciinema.org/a/euILgVBf8tmY6fdNsoZjgeB8A 655391.gif)](./minikube.gif)
+!https://asciinema.org/a/euILgVBf8tmY6fdNsoZjgeB8A 655391.gif(./minikube.gif)
